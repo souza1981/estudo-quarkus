@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # estudo-quarkus-user-service project
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
@@ -28,3 +29,7 @@ Or, if you don't have GraalVM installed, you can run the native executable build
 You can then execute your native executable with: `./target/estudo-quarkus-user-service-1.0-SNAPSHOT-runner`
 
 If you want to learn more about building native executables, please consult https://quarkus.io/guides/building-native-image.
+=======
+# estudo-quarkus
+Estudo do Quarkus
+>>>>>>> addcc66f01b0c07a0f698f585a1aae0ee76e9f37
